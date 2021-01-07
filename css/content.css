@@ -1,0 +1,68 @@
+.pay1{ 
+    text-align: center;
+    font-size: 3.20VW;
+    font-weight: bold;
+    letter-spacing: -0.025em;
+    margin: 0.23VW 0 0.31VW;
+    font-family: 'Pluto Cond Medium';
+}
+.pay{ 
+    text-align: center;
+    font-size: 1.77VW;
+    letter-spacing: -0.025em;
+    font-family: 'Pluto Cond';
+}
+.blog-wrapper .blog-text {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+.blog-wrapper {
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    padding: 11.09375VW 0 11.09375VW 0;
+}
+.personal-blog{
+    background-image: url('../images/top-bag-blog.png');
+    width: 100%;
+    background-size: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+ .hero {
+    background-repeat: no-repeat;
+    height: 3.8281250000000004VW;
+    width: 12.578125000000002VW;
+    background: url("../images/button.png");
+    background-size: 100%;
+    border: 0;
+    font-size: 1.25VW;
+    padding: 0.78125VW 1.40625VW;
+    line-height: 2.34375VW;
+    color: #fff;
+    font-family: 'Pluto Cond Medium';
+    font-weight: normal;
+    cursor: pointer;
+  }
+  .shop{
+    margin-left: 1.875VW;
+    background: url("../images/btnbag.png");
+    color: #463434;
+    background-repeat: no-repeat;
+    height: 3.8281250000000004VW;
+    width: 12.578125000000002VW;
+    background-size: 100%;
+    border: 0;
+    font-size: 1.25VW;
+    padding: 0.78125VW 1.40625VW;
+    line-height: 2.34375VW;
+    font-family: 'Pluto Cond Medium';
+    font-weight: normal;
+    cursor: pointer;
+}
+
+ .action-bar {
+   padding: 0 0 10.06VW;
+}

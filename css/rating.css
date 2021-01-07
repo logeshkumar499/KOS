@@ -1,0 +1,43 @@
+.happy-customer .section-header {
+    margin-bottom: 1.4415376401494928VW;
+}
+.happy-customer .section-header p {
+    color: #3E332E;
+    font-size: 2.36VW;
+    line-height: 3.671875VW;
+    letter-spacing: -0.025em;
+    max-width: 27%;
+    margin: auto;
+    font-family: 'Pluto Cond Medium';
+}
+.happy-customer .section-header p span {
+    font-family: 'Pluto Cond Medium';
+    background-size: 100%;
+    padding: 0.16017084890549918VW 0.7474639615589963VW 0 1.0678056593699947VW;
+    background-image: url(http://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/happycount.svg);
+    background-repeat: no-repeat;
+    font-weight: 600;
+    font-size: 2.80VW;
+}
+.happy-customer .reting-img img {
+    height: 2.1356113187399894VW;
+}
+.happy-customer .average-review .reting {
+    border-bottom: 0.05339028296849973VW solid #3E332E;
+    line-height: 23px;
+}
+.happy-customer .average-review .border {
+    border: 0.05339028296849973VW solid #ece4cd;
+    height: 1.2813667912439934VW;
+    margin: 0 0.9610250934329952VW -0.2669514148424987VW;
+    display: inline-block;
+}
+.happy-customer .average-review .average {
+    letter-spacing: -0.025em;
+    margin: 0.4805125467164976VW 0 3.95VW;
+    font-size: 1.440625VW;
+    color: #3E332E;
+    font-family: 'Pluto Cond';
+    display: inline-block;
+    line-height: 28px;
+}

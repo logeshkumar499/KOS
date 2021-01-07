@@ -1,0 +1,169 @@
+.home_product_inside_content {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    background-image: url(https://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/top-round.svg),url(https://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/middel-round.svg);
+    background-position: center top, center bottom;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 100%,100%;
+}
+.home_product_main_content {
+    width: 100%;
+    display: inline-block;
+    margin: 2.046875VW 0 0;
+    padding: 0px;
+    clear: both;
+    background-color: #e4eff9;
+}
+
+.home_product_inside_elovera {
+    background-image: url(https://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/elovera.svg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 15.625VW;
+}
+
+.product_blend_pantry {
+    width: 100%;
+    margin: auto;
+    margin-bottom: -4.390625VW;
+    clear: both;
+    overflow: hidden;
+    padding: 0px 7.90625VW;
+    box-sizing: border-box;
+}
+.product_blend_pantry .left {
+    width: 100%;
+    max-width: 36.328125VW;
+    float: left;
+    padding-top: 0.9375VW;
+}
+
+.product_blend_pantry .left img {
+    max-width: 100%;
+    margin: auto;
+    padding-top: 4.5VW;
+}
+.button {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+.button a {
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 12.578125000000002VW;
+    height: 3.8281250000000004VW;
+    box-sizing: border-box;
+    padding: 1.015625VW 0px 1.09375VW 0px;
+    text-align: center;
+    border: 0px;
+    margin: 0px;
+    background-size: 100%;
+    color: #fff;
+    background-image: url(http://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/button.svg);
+    font-family: 'Pluto Cond Medium';
+    font-size: 1.25VW;
+    position: relative;
+    z-index: 1;
+}
+.product_blend_pantry .right {
+    max-width: 37.13VW;
+    width: 100%;
+    float: right;
+    padding-top: 9.1VW;
+}
+.product_blend_pantry .right img {
+    max-width: 100%;
+    margin: auto;
+    padding-top: 3.78125VW;
+}
+
+.product_protain {
+    width: 100%;
+    margin: auto;
+    padding: 0 0 2.03125VW;
+    text-align: center;
+    max-width: 79.6875VW;
+    clear: both;
+    overflow: hidden;
+    background-image: url(http://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/home-delicious.png),url(http://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/home-tasty.png);
+    background-position: left 1.53125VW top 3.34375VW, right bottom;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 14%, 15%;
+}
+.product_protain img {
+    padding-top: 2.34375VW;
+    display: inline-block;
+    max-width: 42.875VW;
+    width: 100%;
+    margin: auto;
+}
+.testimonial_main {
+    width: 100%;
+    clear: both;
+    overflow: hidden;
+}
+.testimonial_main_inside {
+    width: 100%;
+    max-width: 100%;
+    clear: both;
+    overflow: hidden;
+    margin: auto;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 2.34375VW;
+    background-size: 9.0625VW 8.59375VW;
+}
+.testimonial_main_inside ul {
+    width: 100%;
+    max-width: 53.98437499999999VW;
+    clear: both;
+    overflow: hidden;
+    margin: auto;
+    padding: 5.46875VW 0px 4.0625VW;
+    background-image: url(http://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/comma-start.svg),url(http://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/comma-end.svg);
+    background-position: left 11px top, right 21px bottom 6VW;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 11.40625VW 7.578124999999999VW,11.40625VW 7.578124999999999VW;
+}
+
+.testimonial_main_inside ul li p {
+    letter-spacing: -0.025em;
+    line-height: 3.9843749999999996VW;
+    color: #3E332E;
+    font-family: 'Pluto Cond';
+    margin: 0px;
+    padding: 0px;
+    font-size: 2.890625VW;
+    text-align: center;
+}
+.testimonial_main_inside ul li h6 {
+    font-family: 'Pluto Cond';
+    font-size: 1.640625VW;
+    text-align: center;
+    color: #3E332E;
+    font-weight: normal;
+    padding-top: 3.671875VW;
+}
+.testimonial_bottom {
+    width: 100%;
+    clear: both;
+    overflow: hidden;
+    padding: 4.3125VW 0 20.546875VW;
+}
+.testimonial_bottom_inside {
+    letter-spacing: -0.025em;
+    font-family: 'Pluto Cond Medium';
+    color: #3E332E;
+    width: 100%;
+    max-width: 51.5625VW;
+    clear: both;
+    overflow: hidden;
+    margin: auto;
+    text-align: center;
+    background-image: url(http://cdn.shopify.com/s/files/1/2236/0863/t/63/assets/text-paint.svg);
+    background-size: 100%;
+    font-size: 2.34375VW;
+}
