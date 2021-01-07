@@ -1,2 +1,2 @@
 # KOS
-It is my new CV
+It is my new project
